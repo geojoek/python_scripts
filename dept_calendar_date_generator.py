@@ -6,7 +6,7 @@ import datetime
 
 # parameters woot woot!
 startDay = "Feb 1 2021" # date has to be entered in a "Jan 1 2021" format to be parasable by this script
-numDays = 100 # number of days out from today
+numDays = 100 # number of days out in future from startday
 
 # the list objects you want to dump the days of your given weekday into
 tuesdayList = []
