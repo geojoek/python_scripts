@@ -3,7 +3,8 @@
 # to copy-paste into the Geosciences Website
 
 # script by Joseph P. Kopera November 2020, updated November 2021
-# Written for Python 3.9 in conda environment with Selenium library.
+# Written for Python 3.9 in conda environment with Selenium library and Firefox headless. Be sure to consult Selenium Python documentation
+# if you haven't used Selenium before.
 
 # NOTE: This is scraping an HTML table into a dictionary and then parsing again into another HTML table
 # There are definitely more elegant and faster ways of doing this, likely using Regex
